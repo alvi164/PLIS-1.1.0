@@ -1,0 +1,37 @@
+PLIS PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 Syad Mehedi Hasan Alvi. All rights reserved.
+Effective date: 17 July 2026.
+
+Programming Lab Integrity Suite (PLIS), including its original source code,
+application design, user interface, documentation, database model, and original
+assets (collectively, the "Software"), is proprietary software owned by Syad
+Mehedi Hasan Alvi (GitHub: https://github.com/alvi164).
+
+No license or permission is granted to any other person or organization to use,
+copy, modify, adapt, publish, distribute, sublicense, sell, lease, host, reverse
+engineer, or create derivative works from the Software unless Syad Mehedi Hasan
+Alvi has provided a separate written license or commercial agreement signed by
+the owner. Possession of source code or an executable does not transfer ownership
+and does not grant any implied rights.
+
+Authorized customers and evaluators may exercise only the rights expressly stated
+in their separate written agreement with the owner. All rights not expressly
+granted are reserved.
+
+THE SOFTWARE IS PROVIDED "AS IS" TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED. THE OWNER
+SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+DAMAGES ARISING FROM USE OF THE SOFTWARE, EXCEPT WHERE SUCH LIMITATION IS
+PROHIBITED BY LAW.
+
+Third-party libraries bundled with or used by the Software remain governed by
+their respective licenses. This proprietary notice does not claim ownership of
+Java, JavaFX, Spring, H2, Jackson, JJWT, Tyrus, Maven, or any other third-party
+component. See THIRD-PARTY-NOTICES.md.
+
+Commercial licensing contact:
+Syad Mehedi Hasan Alvi
+GitHub: https://github.com/alvi164
+ORCID: https://orcid.org/0009-0001-7332-6816
+

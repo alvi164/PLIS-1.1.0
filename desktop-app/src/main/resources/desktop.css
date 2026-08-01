@@ -1,0 +1,48 @@
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-background-color: linear-gradient(to bottom right, #eef3ff, #f8fafc);
+    -fx-text-fill: #172033;
+}
+
+.unified-brand {
+    -fx-font-size: 54px;
+    -fx-font-weight: 900;
+    -fx-text-fill: #244fc7;
+}
+
+.unified-title {
+    -fx-font-size: 25px;
+    -fx-font-weight: 800;
+}
+
+.role-card {
+    -fx-background-color: white;
+    -fx-background-radius: 16;
+    -fx-border-color: #d7deea;
+    -fx-border-radius: 16;
+    -fx-padding: 24;
+    -fx-font-size: 16px;
+    -fx-font-weight: 700;
+    -fx-text-fill: #1f3f91;
+    -fx-effect: dropshadow(gaussian, rgba(31, 51, 86, 0.12), 20, 0.08, 0, 6);
+}
+
+.role-card:hover {
+    -fx-border-color: #315dd4;
+    -fx-background-color: #f8faff;
+}
+
+.setup-card {
+    -fx-background-color: white;
+    -fx-background-radius: 16;
+    -fx-effect: dropshadow(gaussian, rgba(31, 51, 86, 0.14), 24, 0.1, 0, 8);
+}
+
+.host-information {
+    -fx-background-color: #e8f1ff;
+    -fx-text-fill: #17375e;
+    -fx-font-weight: 700;
+    -fx-padding: 9 18 9 18;
+    -fx-border-color: #bdd3f2;
+    -fx-border-width: 0 0 1 0;
+}

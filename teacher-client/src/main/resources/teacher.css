@@ -1,0 +1,108 @@
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-font-size: 13px;
+    -fx-background-color: #f4f6fa;
+    -fx-text-fill: #172033;
+}
+
+.app-header {
+    -fx-background-color: #ffffff;
+    -fx-border-color: transparent transparent #dfe4ec transparent;
+}
+
+.login-card {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 14;
+    -fx-effect: dropshadow(gaussian, rgba(21, 35, 62, 0.14), 28, 0.1, 0, 8);
+}
+
+.product-mark {
+    -fx-font-size: 34px;
+    -fx-font-weight: 800;
+    -fx-text-fill: #2856d8;
+}
+
+.product-mark-small {
+    -fx-font-size: 19px;
+    -fx-font-weight: 800;
+    -fx-text-fill: #2856d8;
+}
+
+.view-title {
+    -fx-font-size: 23px;
+    -fx-font-weight: 700;
+}
+
+.section-title {
+    -fx-font-size: 18px;
+    -fx-font-weight: 700;
+}
+
+.muted {
+    -fx-text-fill: #667085;
+}
+
+.connected {
+    -fx-text-fill: #16805c;
+    -fx-font-weight: 700;
+}
+
+.warning-label {
+    -fx-text-fill: #a15c00;
+}
+
+.error-label {
+    -fx-text-fill: #b42318;
+}
+
+.button {
+    -fx-cursor: hand;
+    -fx-background-radius: 7;
+    -fx-padding: 8 13 8 13;
+}
+
+.primary-button {
+    -fx-background-color: #2856d8;
+    -fx-text-fill: white;
+    -fx-font-weight: 700;
+}
+
+.text-field, .password-field, .text-area, .list-view, .table-view, .date-picker, .spinner {
+    -fx-background-radius: 7;
+    -fx-border-radius: 7;
+    -fx-border-color: #d4dae5;
+}
+
+.student-tile {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-border-width: 0 0 0 5;
+    -fx-border-color: #98a2b3;
+    -fx-padding: 14;
+    -fx-pref-width: 250;
+    -fx-min-height: 125;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(30, 45, 70, 0.08), 10, 0, 0, 3);
+}
+
+.status-editing { -fx-border-color: #2878d8; }
+.status-compiling { -fx-border-color: #8b5cf6; }
+.status-running { -fx-border-color: #16805c; }
+.status-error { -fx-border-color: #d92d20; }
+.status-idle { -fx-border-color: #667085; }
+.status-offline { -fx-border-color: #c5cad3; -fx-opacity: 0.78; }
+
+.tile-heading {
+    -fx-font-weight: 700;
+}
+
+.status-badge {
+    -fx-font-size: 11px;
+    -fx-font-weight: 800;
+}
+
+.code-editor { -fx-font-family: "Consolas"; -fx-font-size: 14px; }
+.transparent-scroll { -fx-background-color: transparent; -fx-border-color: transparent; }
+.audit-log { -fx-font-family: "Consolas"; -fx-font-size: 12px; }
+.danger-button { -fx-background-color: #b42318; -fx-text-fill: white; -fx-font-weight: 700; }

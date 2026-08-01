@@ -1,0 +1,77 @@
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-font-size: 13px;
+    -fx-background-color: #f5f7fb;
+    -fx-text-fill: #172033;
+}
+
+.app-header {
+    -fx-background-color: #ffffff;
+    -fx-border-color: transparent transparent #dfe4ec transparent;
+}
+
+.login-card {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 14;
+    -fx-effect: dropshadow(gaussian, rgba(21, 35, 62, 0.14), 28, 0.1, 0, 8);
+}
+
+.product-mark {
+    -fx-font-size: 34px;
+    -fx-font-weight: 800;
+    -fx-text-fill: #12715b;
+}
+
+.product-mark-small {
+    -fx-font-size: 19px;
+    -fx-font-weight: 800;
+    -fx-text-fill: #12715b;
+}
+
+.view-title {
+    -fx-font-size: 23px;
+    -fx-font-weight: 700;
+}
+
+.section-title {
+    -fx-font-size: 18px;
+    -fx-font-weight: 700;
+}
+
+.muted { -fx-text-fill: #667085; }
+.error-label { -fx-text-fill: #b42318; }
+.countdown { -fx-font-size: 18px; -fx-font-weight: 800; -fx-text-fill: #8d3b00; }
+.monitoring-disclosure {
+    -fx-background-color: #fff7df;
+    -fx-border-color: #e8c768;
+    -fx-border-radius: 7;
+    -fx-background-radius: 7;
+    -fx-padding: 10;
+    -fx-text-fill: #694b00;
+}
+.code-editor, .code-output { -fx-font-family: "Consolas"; -fx-font-size: 14px; }
+.teacher-code-range { -fx-fill: #c1121f; -fx-font-weight: bold; }
+
+.button {
+    -fx-cursor: hand;
+    -fx-background-radius: 7;
+    -fx-padding: 8 13 8 13;
+}
+
+.primary-button {
+    -fx-background-color: #12715b;
+    -fx-text-fill: white;
+    -fx-font-weight: 700;
+}
+
+.danger-button {
+    -fx-background-color: #b42318;
+    -fx-text-fill: white;
+    -fx-font-weight: 700;
+}
+
+.text-field, .password-field, .text-area, .list-view {
+    -fx-background-radius: 7;
+    -fx-border-radius: 7;
+    -fx-border-color: #d4dae5;
+}
